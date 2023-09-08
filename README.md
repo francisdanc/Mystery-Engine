@@ -1,3 +1,3 @@
 # Mystery-Engine
-[Introduction}(#introduction)
+[Introduction](#introduction)
 # Introduction 
